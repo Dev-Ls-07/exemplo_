@@ -1,8 +1,4 @@
-# exemplo_
-
----
-
-## **1. Estrutura Geral dos Verbos em Inglês (com os itens extras)**
+# **1. Estrutura Geral dos Verbos em Inglês (com os itens extras)**
 
 | Categoria            | O que é?                                                                              | Exemplos                                        |
 |----------------------|---------------------------------------------------------------------------------------|-------------------------------------------------|
