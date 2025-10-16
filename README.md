@@ -1,7 +1,5 @@
 # exemplo_
 
-Ótima pergunta! A estrutura dos verbos em inglês realmente envolve vários conceitos, e organizar isso em uma tabela pode te ajudar muito. Vou resumir de forma clara e visual:
-
 ---
 
 ## **1. Estrutura Geral dos Verbos em Inglês**
